@@ -30,5 +30,5 @@ I'm a Software Engineer and Content Creator who currently works as a Frontend De
 
 ---
 
-| <img align="center" src="https://github-readme-stats.vercel.app/api?username=Kaempy&show_icons=true&include_all_commits=true&hide_border=true" alt="Ademary's GitHub stats" /> | <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kaempy&langs_count=8&layout=compact&hide_border=true" alt="Ademary's GitHub stats" /> |
+| <img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=Kaempy&theme=tokyonight&stroke=DD59CF&show_icons=true&include_all_commits=true&hide_border=true" alt="Ademary's GitHub stats" /> | <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kaempy&langs_count=8&layout=compact&hide_border=true" alt="Ademary's GitHub stats" /> |
 | ------------- | ------------- |
