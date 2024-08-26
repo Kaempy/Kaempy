@@ -24,7 +24,7 @@ I'm a Software Engineer who currently works as a Frontend Developer at [InfoStra
 - 😊 Pronouns: She/her
 - 🌱 I’m proficient in TypeScript, Nextjs, and Reactjs.
 - 💼 Job interests: Software Engineer, FrontEnd Engineer.
-- 📫 You can [view my resume](#) and contact me by emailing campa.banj@gmail.com.
+- 📫 You can [view my resume](https://ademary-portfolio.vercel.app) and contact me by emailing campa.banj@gmail.com.
 
 ---
 
