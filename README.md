@@ -81,8 +81,8 @@ Built a video post app where users can log in, view recent posts, save posts, an
 
 ## 📫 Let's Connect
 
-- [![LinkedIn Badge](https://img.shields.io/badge/-adebanjomary-444444?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/abolanle-mary-adebanjo)
-- [![Twitter Badge](https://img.shields.io/badge/-ademarymi-444444?style=flat&logo=X&logoColor=white)](https://x.com/ademarymi)
+- [![LinkedIn Badge](https://img.shields.io/badge/-adebanjomary-%23007ACC?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/abolanle-mary-adebanjo)
+- [![Twitter Badge](https://img.shields.io/badge/-ademarymi-%23121011?style=flat&logo=X&logoColor=white)](https://x.com/ademarymi)
 - 📧 Email: campa.banj@gmail.com
 - 🌐 [Portfolio](https://ademary-portfolio.vercel.app)
 
