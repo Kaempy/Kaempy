@@ -24,7 +24,7 @@ I'm a passionate Frontend Engineer with expertise in building high-quality web a
 ![Expo](https://img.shields.io/badge/expo-%2320232a.svg?style=flat&logo=expo&logoColor=white)
 
 ### Backend:
-![Node.js](https://img.shields.io/badge/node.js-6DA55F?style=flat&logo=node.js&logoColor=white) 
+<!-- ![Node.js](https://img.shields.io/badge/node.js-6DA55F?style=flat&logo=node.js&logoColor=white) --> 
 ![Apollo Server](https://img.shields.io/badge/apollo_server-311C87?style=flat&logo=apollo-graphql&logoColor=white) 
 ![GraphQL](https://img.shields.io/badge/graphql-E10098?style=flat&logo=graphql&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/postgresql-%23316192.svg?style=flat&logo=postgresql&logoColor=white)
