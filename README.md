@@ -32,7 +32,7 @@ In addition to my technical work, I enjoy mentoring others, sharing knowledge, a
 ![Appwrite](https://img.shields.io/badge/appwrite-%23F02E65.svg?style=flat&logo=appwrite&logoColor=white)
 ![Expo](https://img.shields.io/badge/expo-%2320232a.svg?style=flat&logo=expo&logoColor=white)
 
-### Code Quality Tools
+### Code Quality Tools:
 ![Husky](https://img.shields.io/badge/husky-%23F69220.svg?style=flat&logo=husky&logoColor=white)
 ![Commitlint](https://img.shields.io/badge/commitlint-%23302E31.svg?style=flat&logo=commitlint&logoColor=white)
 ![ESLint](https://img.shields.io/badge/eslint-%234B32C3.svg?style=flat&logo=eslint&logoColor=white)
