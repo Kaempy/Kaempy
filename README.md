@@ -20,10 +20,11 @@ In addition to my technical work, I enjoy mentoring others, sharing knowledge, a
 ![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=flat&logo=react&logoColor=%2361DAFB) 
 ![Next.js](https://img.shields.io/badge/Next-%2320232a?style=flat&logo=next.js&logoColor=white) 
 ![React Router](https://img.shields.io/badge/React_Router-CA4245?logo=react-router&logoColor=white)
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=flat&logo=css3&logoColor=white) 
 ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=flat&logo=tailwind-css&logoColor=white)
 ![shadcn/ui](https://img.shields.io/badge/shadcn%2Fui-%2320232a?logo=shadcnui&logoColor=fff)
 ![styled-components](https://img.shields.io/badge/styled--components-DB7093?logo=styledcomponents&logoColor=fff)
+![HTML5](https://img.shields.io/badge/HTML5-%23E34F26.svg?style=flat&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=flat&logo=css3&logoColor=white) 
 
 ### Tools & Platforms:
 ![Vercel](https://img.shields.io/badge/vercel-%2320232a.svg?style=flat&logo=vercel&logoColor=white) 
@@ -62,6 +63,23 @@ In addition to my technical work, I enjoy mentoring others, sharing knowledge, a
 ### Version Control & Collaboration:
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=flat&logo=git&logoColor=white) 
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=flat&logo=github&logoColor=white)
+![GitLab](https://img.shields.io/badge/GitLab-%231F6EBE.svg?style=flat&logo=gitlab&logoColor=white)
+![Bitbucket](https://img.shields.io/badge/Bitbucket-%230E7B7D.svg?style=flat&logo=bitbucket&logoColor=white)
+<!--
+![Trello](https://img.shields.io/badge/Trello-0052CC?logo=trello&logoColor=fff)
+![ClickUp](https://img.shields.io/badge/ClickUp-%234E3C6E.svg?style=flat&logo=clickup&logoColor=white)
+![Jira](https://img.shields.io/badge/Jira-0052CC?logo=jira&logoColor=fff)
+![Slack](https://img.shields.io/badge/Slack-4A154B?logo=slack&logoColor=fff)
+![Meet](https://img.shields.io/badge/Meet-%234B8B3B.svg?style=flat&logo=googlemeet&logoColor=white)
+![Microsoft Teams](https://img.shields.io/badge/Microsoft_Teams-%230E7CC5.svg?style=flat&logo=microsoft-teams&logoColor=white)
+![Zoom](https://img.shields.io/badge/Zoom-2D8CFF?logo=zoom&logoColor=white)
+![Meet](https://img.shields.io/badge/Meet-%234CAF50.svg?style=flat&logo=googlemeet&logoColor=white)
+![Meet](https://img.shields.io/badge/Meet-%2334B9B9.svg?style=flat&logo=googlemeet&logoColor=white)
+-->
+
+
+
+
 
 <!-- 
 ---
