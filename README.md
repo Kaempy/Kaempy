@@ -4,7 +4,13 @@
 ### Senior Frontend Engineer | React | React Native | AWS Cloud Practitioner | Web3 Enthusiast
 
 
-I'm a passionate Frontend Engineer with expertise in building high-quality web and mobile applications using **React** and **React Native**. I thrive on creating user-centric, performant, and scalable applications that meet modern standards. My experience spans a range of frontend technologies, with a focus on performance optimization and seamless user experiences.
+I am a passionate Frontend Engineer with expertise in building high-quality web and mobile applications using **React** and **React Native**. I specialize in developing performant, scalable, and user-centric solutions that meet modern standards, focusing on performance optimization and seamless user experiences.
+
+I maintain clean, reusable, and accessible code, adhering to best practices in design, coding, and SEO. With a keen eye for design, I ensure that the applications I build are not only functional but also visually appealing.
+
+In addition to my technical work, I enjoy mentoring others, sharing knowledge, and contributing to the developer community to support the growth of fellow developers.
+
+
 
 ## 🛠️ Tech Stack & Tools
 
@@ -13,8 +19,11 @@ I'm a passionate Frontend Engineer with expertise in building high-quality web a
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=flat&logo=react&logoColor=%2361DAFB) 
 ![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=flat&logo=react&logoColor=%2361DAFB) 
 ![Next.js](https://img.shields.io/badge/Next-%2320232a?style=flat&logo=next.js&logoColor=white) 
+![React Router](https://img.shields.io/badge/React_Router-CA4245?logo=react-router&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=flat&logo=css3&logoColor=white) 
 ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=flat&logo=tailwind-css&logoColor=white)
+![shadcn/ui](https://img.shields.io/badge/shadcn%2Fui-%2320232a?logo=shadcnui&logoColor=fff)
+![styled-components](https://img.shields.io/badge/styled--components-DB7093?logo=styledcomponents&logoColor=fff)
 
 ### Tools & Platforms:
 ![Vercel](https://img.shields.io/badge/vercel-%2320232a.svg?style=flat&logo=vercel&logoColor=white) 
@@ -22,6 +31,14 @@ I'm a passionate Frontend Engineer with expertise in building high-quality web a
 ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=flat&logo=firebase) 
 ![Appwrite](https://img.shields.io/badge/appwrite-%23F02E65.svg?style=flat&logo=appwrite&logoColor=white)
 ![Expo](https://img.shields.io/badge/expo-%2320232a.svg?style=flat&logo=expo&logoColor=white)
+
+### Code Quality Tools
+![Husky](https://img.shields.io/badge/husky-%23F69220.svg?style=flat&logo=husky&logoColor=white)
+![Commitlint](https://img.shields.io/badge/commitlint-%23302E31.svg?style=flat&logo=commitlint&logoColor=white)
+![ESLint](https://img.shields.io/badge/eslint-%234B32C3.svg?style=flat&logo=eslint&logoColor=white)
+![Prettier](https://img.shields.io/badge/prettier-%23D5006D.svg?style=flat&logo=prettier&logoColor=white)
+
+
 
 ### Backend:
 <!-- ![Node.js](https://img.shields.io/badge/node.js-6DA55F?style=flat&logo=node.js&logoColor=white) --> 
